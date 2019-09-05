@@ -16,3 +16,8 @@ node create_account.js
 ```
 node send_transaction.js <sender_secret> <receiver_public_key> <amount>
 ```
+
+- In order to listen for previous and upcoming payments run:
+```
+node receive_transactions.js <account_public_key>
+```

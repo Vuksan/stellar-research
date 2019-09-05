@@ -1,5 +1,5 @@
-const stellarSdk = require('stellar-sdk')
-const fetch = require('node-fetch')
+const stellarSdk = require("stellar-sdk")
+const fetch = require("node-fetch")
 
 async function main() {
     // Create new pair of keys

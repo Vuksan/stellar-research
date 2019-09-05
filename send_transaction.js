@@ -1,4 +1,4 @@
-const stellarSdk = require('stellar-sdk')
+const stellarSdk = require("stellar-sdk")
 
 async function main() {
     // Get command line arguments without first two
